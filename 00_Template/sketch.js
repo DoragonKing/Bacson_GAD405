@@ -7,7 +7,7 @@
 function setup() {
   //Print a message to the console - to view using Chrome:
   //View > Developer > Developer Tools > Console
-  console.log("Initialisation: OK")
+  console.log("Initialisation:A OK")
   createCanvas(500,500);
 }
 
