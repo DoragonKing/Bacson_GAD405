@@ -21,7 +21,7 @@ function draw() {
   //Center shape position and color
   fill(255);
   rectMode(CENTER);
-  rect(350, 200, 20, 10);
+  rect(350, 200, 200, 100);
   //Set text preferences for circle0
   textAlign(CENTER);
   fill(100);
